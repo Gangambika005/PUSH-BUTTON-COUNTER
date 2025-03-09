@@ -12,9 +12,10 @@
 
 "MENTOR" : NEELA SANTHOSH
 
-"DISCRIPTION"
+"DISCRIPTION" :
+
 Introduction
-Introduction
+
 In this task, a basic embedded system is developed using an Arduino UNO to detect and count the number of times a push button is pressed. The system reads the digital state of the button, increments a counter for each valid press, and displays the result on the Serial Monitor. This task introduces the fundamental concept of reading digital inputs and implementing simple software-based debouncing to ensure accurate readings from mechanical buttons.
 
 Objective :
