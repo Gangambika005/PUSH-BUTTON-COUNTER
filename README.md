@@ -4,7 +4,7 @@
 
 "NAME" : GANGAMBIKA BK
 
-"INTERN ID" : 
+"INTERN ID" : CT08VCR
 
 "DOMAIN" : EMBEDDED SYSTEMS
 
@@ -97,5 +97,7 @@ It also forms the basis for more advanced systems involving interrupts, multiple
 Conclusion
 Task 1 provides a solid introduction to digital input handling, debounce logic, and serial communication using Arduino. The code is simple and efficient, making use of a minimal debounce technique with delay() for reliable operation. This exercise helps students understand the real-world challenges of input devices, such as bouncing, and demonstrates a practical solution. It builds a strong foundation for more complex embedded systems projects where stable and accurate input is essential.
 
+"OUTPUT" :
 
+![Image](https://github.com/user-attachments/assets/bf4fa8ed-0f28-4ad9-b2e6-0cc29d900d64)
 
